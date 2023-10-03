@@ -8,7 +8,7 @@ import Contact from '../Contact/Contact';
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header name="Rawyalty" content="Automotive Technology." />
       <Services />
       <About />
       <Contact />
