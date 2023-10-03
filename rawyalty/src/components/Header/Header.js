@@ -1,6 +1,6 @@
 import React from "react";
 
-function Header() {
+function Header(props) {
     <header className="header">
         <div className="header-content">
             <div className="text-content">
