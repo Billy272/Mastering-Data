@@ -1,0 +1,44 @@
+# Virtual environment
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python log files
+*.log
+
+# Data files
+data/
+
+# Model files
+models/
+
+# Temporary files
+*.tmp
+
+# Compiled files
+*.pyc
+*.class
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Config files
+*.yaml
+*.yml
+*.ini
+*.json
+*.conf
+
+# Ignore your API keys, credentials, or sensitive information
+secrets.json
