@@ -42,3 +42,7 @@ Thumbs.db
 
 # Ignore your API keys, credentials, or sensitive information
 secrets.json
+
+# Ignore csv file on Credit_Card
+./Credit_Card/creditcard.csv
+
